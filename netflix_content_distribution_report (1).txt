@@ -1,0 +1,19 @@
+NETFLIX CONTENT DISTRIBUTION ANALYSIS
+
+Dataset: netflix_cleaned.csv
+Total titles analysed: 8,790
+
+Content breakdown:
+- Movies: 6,126 (69.69%)
+- TV Shows: 2,664 (30.31%)
+
+Key findings:
+1. Movies account for 69.69% of the dataset.
+2. TV Shows account for 30.31% of the dataset.
+3. There are 3,462 more Movies than TV Shows.
+4. There are approximately 2.30 Movies for every TV Show.
+
+Conclusion:
+The dataset is movie-dominant: Movies make up the larger share of available titles,
+while TV Shows represent a smaller but substantial portion. This comparison describes
+the composition of this dataset, not necessarily Netflix's live catalogue.
